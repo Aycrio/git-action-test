@@ -9,5 +9,5 @@ jobs:
       - name: Run Feed Generator
         uses: Aycrio/podcast-generator@main
         with:
-          email: ${{ github.actor }}@localhost
-          name: ${{ github.actor }}
+          email: ${{ secrets.COMMITTER_EMAIL }}
+          name: ${{ secrets.COMMITTER_NAME }}
