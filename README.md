@@ -1,5 +1,10 @@
 # The Future in Tech
 
+## Disclaimer
+This repository is created following the instructions provided by the Practical GitHub Actions https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action?contextUrn=urn%3Ali%3AlyndaLearningPath%3A652f0f88498e1eddf9719c9b&u=78163626
+
+
+
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
 The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
